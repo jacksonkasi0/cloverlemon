@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "icon": "pe-7s-gleam",
+    "title": "Digital Marketing",
+    "content": "Tempore corrupti temporibus fuga earum asperiores fugit laudantium.",
+    "wowDelay": ".3s",
+    "class": "xtop"
+  },
+  {
+    "id": 2,
+    "icon": "pe-7s-phone",
+    "title": "Web &amp; W App Development",
+    "content": "Tempore corrupti temporibus fuga earum asperiores fugit laudantium.",
+    "wowDelay": ".6s",
+    "class": "xcolor"
+  },
+  {
+    "id": 3,
+    "icon": "pe-7s-magic-wand",
+    "title": "Graphic Design",
+    "content": "Tempore corrupti temporibus fuga earum asperiores fugit laudantium.",
+    "wowDelay": ".9s",
+    "class": "xbottom"
+  }
+]

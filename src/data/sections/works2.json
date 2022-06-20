@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "slug": "/project-details/project-details-dark",
+    "title": "Creativity Demand",
+    "img": "/img/portfolio/mas/01.jpg",
+    "tags": ["Design", "WordPress"],
+    "tagSlug": ["#", "#0"],
+    "filterCategory": "graphic lg-mr"
+  },
+  {
+    "id": 2,
+    "slug": "/project-details/project-details-dark",
+    "title": "Through The Breaking",
+    "img": "/img/portfolio/mas/02.jpg",
+    "tags": ["Design", "WordPress"],
+    "tagSlug": ["#", "#0"],
+    "filterCategory": "web"
+  },
+  {
+    "id": 3,
+    "slug": "/project-details/project-details-dark",
+    "title": "Create With Creatives",
+    "img": "/img/portfolio/mas/03.jpg",
+    "tags": ["Design", "WordPress"],
+    "tagSlug": ["#", "#0"],
+    "filterCategory": "brand lg-mr"
+  },
+  {
+    "id": 4,
+    "slug": "/project-details/project-details-dark",
+    "title": "Blast From The Past",
+    "img": "/img/portfolio/mas/06.jpg",
+    "tags": ["Design", "WordPress"],
+    "tagSlug": ["#", "#0"],
+    "filterCategory": "brand"
+  },
+  {
+    "id": 5,
+    "slug": "/project-details/project-details-dark",
+    "title": "See It Yourself",
+    "img": "/img/portfolio/mas/05.jpg",
+    "tags": ["Design", "WordPress"],
+    "tagSlug": ["#", "#0"],
+    "filterCategory": "web"
+  },
+  {
+    "id": 6,
+    "slug": "/project-details/project-details-dark",
+    "title": "Energies of Love",
+    "img": "/img/portfolio/mas/04.jpg",
+    "tags": ["Design", "WordPress"],
+    "tagSlug": ["#", "#0"],
+    "filterCategory": "graphic"
+  }
+]

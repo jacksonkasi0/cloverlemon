@@ -1,0 +1,36 @@
+{
+  "title": "We help to create visual strategies.",
+  "content": "We are AVO. We create award-winning websites, remarkable brands and cutting-edge apps.Nullam imperdie.",
+  "skills": [
+    {
+      "skill": "UI / UX Design",
+      "percentage": "90%"
+    },
+    {
+      "skill": "Apps Development",
+      "percentage": "80%"
+    }
+  ],
+  "images": [
+    {
+      "image": "/img/team/1.jpg",
+      "title": "Stephanie Lawrence",
+      "sub": "Co-Founder, Colabrio Media"
+    },
+    {
+      "image": "/img/team/2.jpg",
+      "title": "Alex Regelman",
+      "sub": "Co-Founder, Colabrio Media"
+    },
+    {
+      "image": "/img/team/3.jpg",
+      "title": "Stacey Stamper",
+      "sub": "Network Partner, Colabrio Media"
+    },
+    {
+      "image": "/img/team/4.jpg",
+      "title": "Stephanie Lawrence",
+      "sub": "CEO, Colabrio Media"
+    }
+  ]
+}

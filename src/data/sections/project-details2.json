@@ -1,0 +1,24 @@
+{
+  "header": {
+    "bgimg": "/img/portfolio/project2/bg.jpg",
+    "smTitle": "art & illustration",
+    "title": "Inspiring new space.",
+    "client": "Envato.com",
+    "slug": "#",
+    "date": "6 August 2022",
+    "Categories": ["Web Design", "WordPress"],
+    "CategorieSlug": ["/works/works-dark", "/works/works-dark"],
+    "tags": ["Minimal", "Modern", "Design"],
+    "tagSlug": ["/works/works-dark", "/works/works-dark", "/works/works-dark"]
+  },
+  "Intro": {
+    "content": "We are a Creative Agency & Startup Studio that provides Digital Products and Services turns to focus on client success. We specialize in user interface design, including front-end development which we consider to be an integral part.",
+    "list": [
+      "Aenean sollicitudin",
+      "lorem quis bibendum auctor",
+      "nisi elit conseq uat ipsum",
+      "nec sagittis sem nibh id elit"
+    ]
+  },
+  "Description": "We are a Creative Agency & Startup Studio that provides Digital Products and Services turns to focus on client success. We specialize in user interface design, including front-end development which we consider to be an integral part."
+}

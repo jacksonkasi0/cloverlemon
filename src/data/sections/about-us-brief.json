@@ -1,0 +1,22 @@
+{
+  "title": "About Us.",
+  "bgimg": "/img/min-area.jpg",
+  "content": " Our creative Ad agency is ranked among the finest in the US. We cultivate smart ideas for start-ups and seasoned players.",
+  "aim": [
+    {
+      "subtle": "Our Mission",
+      "subcont": "luctus massa ipsum at tempus eleifend congue lectus bibendum",
+      "wowDelay": ".2s"
+    },
+    {
+      "subtle": "Our Goals",
+      "subcont": "luctus massa ipsum at tempus eleifend congue lectus bibendum",
+      "wowDelay": ".4s"
+    },
+    {
+      "subtle": "Why Us?",
+      "subcont": "luctus massa ipsum at tempus eleifend congue lectus bibendum",
+      "wowDelay": ".6s"
+    }
+  ]
+}

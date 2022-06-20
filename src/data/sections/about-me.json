@@ -1,0 +1,40 @@
+{
+  "name": "Alex Smith",
+  "work": "UI & UX Designer",
+  "bgimg":"/img/slid/freelancer.jpg",
+  "social": [
+    {
+      "link": "#",
+      "class": "fa-facebook-f"
+    },
+    {
+      "link": "#",
+      "class": "fa-twitter"
+    },
+    {
+      "link": "#",
+      "class": "fa-pinterest"
+    },
+    {
+      "link": "#",
+      "class": "fa-behance"
+    }
+  ],
+  "title": "My mission is design develop the best Websites around.",
+  "brief": "Hello! I’m Alex Smith. Web designer from USA, California, San Francisco. I have rich experience in web site design and building, also I am good at wordpress. I love to talk with you about our unique.",
+  "skills": [
+    {
+      "skill": "UI / UX Design",
+      "percentage": "90%"
+    },
+    {
+      "skill": "Development",
+      "percentage": "80%"
+    },
+    {
+      "skil": "Graphic Design",
+      "percentage": "88%"
+    }
+  ],
+  "cvLink": "#"
+}

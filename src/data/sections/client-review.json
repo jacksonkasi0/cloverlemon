@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "review": "Nulla metus metus ullamcorper vel tincidunt sed euismod nibh volutpat velit class aptent taciti sociosqu adlitora.",
+    "name": "Alex Regelman",
+    "image": "/img/clients/1.jpg",
+    "details": "Co-founder, Colabrio"
+  },
+  {
+    "id": 2,
+    "review": "Nulla metus metus ullamcorper vel tincidunt sed euismod nibh volutpat velit class aptent taciti sociosqu adlitora.",
+    "name": "Alex Regelman",
+    "image": "/img/clients/1.jpg",
+    "details": "Co-founder, Paypal"
+  },
+  {
+    "id": 3,
+    "review": "Nulla metus metus ullamcorper vel tincidunt sed euismod nibh volutpat velit class aptent taciti sociosqu adlitora.",
+    "name": "Alex Regelman",
+    "image": "/img/clients/1.jpg",
+    "details": "Co-founder, Colabrio"
+  }
+]

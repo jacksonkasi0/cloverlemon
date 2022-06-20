@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "date": "06",
+    "month_year": "aug 2022",
+    "author": "Admin",
+    "tag": "WordPress",
+    "title": "The Start-Up Ultimate Guide to Make Your WordPress Journal.",
+    "tagSlug": "/blog/blog-dark",
+    "slug": "/blog-details/blog-details-dark",
+    "bgImg": "/img/blog/1.jpg",
+    "wowDelay": ".3s"
+  },
+  {
+    "id": 2,
+    "date": "11",
+    "month_year": "aug 2022",
+    "author": "Admin",
+    "tag": "WordPress",
+    "title": "The Start-Up Ultimate Guide to Make Your WordPress Journal.",
+    "tagSlug": "/blog/blog-dark",
+    "slug": "/blog-details/blog-details-dark",
+    "bgImg": "/img/blog/2.jpg",
+    "wowDelay": ".6s"
+  },
+  {
+    "id": 3,
+    "date": "09",
+    "month_year": "aug 2022",
+    "author": "Admin",
+    "tag": "WordPress",
+    "title": "The Start-Up Ultimate Guide to Make Your WordPress Journal.",
+    "tagSlug": "/blog/blog-dark",
+    "slug": "/blog-details/blog-details-dark",
+    "bgImg": "/img/blog/3.jpg",
+    "wowDelay": ".9s"
+  }
+]

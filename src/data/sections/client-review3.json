@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "review": "Working with Avo digital agency to support our organic and paid social media activity has extended the marketing activities we are able to achieve platform has made collaboration easy.",
+    "name": "Alex Regelman",
+    "image": "/img/clients/1.jpg",
+    "details": "Co-founder, Colabrio"
+  },
+  {
+    "id": 2,
+    "review": "Avo started out managing our SEO efforts, but their scientific approach to digital marketing and the results they have achieved made it an easy decision for us to handover the management.",
+    "name": "Alex Regelman",
+    "image": "/img/clients/1.jpg",
+    "details": "Co-founder, Colabrio"
+  },
+  {
+    "id": 3,
+    "review": "I would highly recommend Avo Digital. I worked with the team on an animation for our U+2018 Click & Collect U+2019 service. This team is different from any other agency I have worked with in the past.",
+    "name": "Alex Regelman",
+    "image": "/img/clients/1.jpg",
+    "details": "Co-founder, Colabrio"
+  }
+]

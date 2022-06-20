@@ -1,0 +1,37 @@
+{
+  "email": "Avo_support@website.com",
+  "address": "A32 , Ave 15th Street, Door 211, San Franciso, USA 32490.",
+  "phoneNo": "(+1) 2345 678 44 88",
+  "social": [
+    {
+      "link": "#",
+      "class": "fa-facebook-f"
+    },
+    {
+      "link": "#",
+      "class": "fa-twitter"
+    },
+    {
+      "link": "#",
+      "class": "fa-pinterest"
+    },
+    {
+      "link": "#",
+      "class": "fa-behance"
+    }
+  ],
+  "instaPost": [
+    {
+      "link": "#",
+      "img": "/img/insta/1.jpg"
+    },
+    {
+      "link": "#",
+      "img": "/img/insta/2.jpg"
+    },
+    {
+      "link": "#",
+      "img": "/img/insta/3.jpg"
+    }
+  ]
+}

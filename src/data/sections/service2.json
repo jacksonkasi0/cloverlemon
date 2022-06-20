@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": {
+      "first": "Website",
+      "second": "Developments"
+    },
+    "icon": "pe-7s-monitor"
+  },
+  {
+    "id": 2,
+    "name": {
+      "first": "Product",
+      "second": "Photography"
+    },
+    "icon": "pe-7s-camera"
+  },
+  {
+    "id": 3,
+    "name": {
+      "first": "Mobile App",
+      "second": "Devlopment"
+    },
+    "icon": "pe-7s-phone"
+  },
+  {
+    "id": 4,
+    "name": {
+      "first": "Document",
+      "second": "Legal Policy"
+    },
+    "icon": "pe-7s-diskette"
+  },
+  {
+    "id": 5,
+    "name": {
+      "first": "Managing",
+      "second": "Community"
+    },
+    "icon": "pe-7s-help2"
+  },
+  {
+    "id": 6,
+    "name": {
+      "first": "Coustomer",
+      "second": "Engagement"
+    },
+    "icon": "pe-7s-arc"
+  }
+]
